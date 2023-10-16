@@ -26,6 +26,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.Trash-0/
+*.pt
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -50,6 +52,10 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
+*.csv
+*.zip
+*.sav
+*.ckpt
 
 # Translations
 *.mo
